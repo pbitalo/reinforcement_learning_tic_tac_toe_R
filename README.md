@@ -1,4 +1,4 @@
-# Reinforcement learning Tic Tac Toe em R
+# Reinforcement Learning Tic Tac Toe em R
 
 ### Tema: Aprendizagem por Reforço
 
