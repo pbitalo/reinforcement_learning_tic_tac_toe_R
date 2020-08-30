@@ -28,5 +28,11 @@ A recompensa define qual o sucesso obtido através da jogada executada.
 ##### Modelo.R
 ##### TicTacToe.R
 
+### Para executar:
+#### 1 - Carregue o Modelo.R
+#### 2 - Carregue o TicTacToe.R
+#### 3 - Digite no console: "tictactoe(0)" para iniciar a partida.
+#### 3.1 - Digite no console o intervalo: "tictactoe(1-9)" para jogar em alguma posição existente.
+
 ### Imagem do jogo em execução (exemplo onde o agente ganha a partida)
 ![Alt text](https://github.com/pbitalo/reinforcement_learning_tic_tac_toe_R/blob/master/PartidaTicTacToeExemplo1.png?raw=true)
